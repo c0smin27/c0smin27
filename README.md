@@ -11,4 +11,4 @@
 <a href="https://www.instagram.com/_._cosmin_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._cosmin_._/" height="30" width="40" /></a>
 </p>
 
-**E-mail** **cosminmelinte2720@gmail.com**
+**E-mail: cosminmelinte2720@gmail.com**
