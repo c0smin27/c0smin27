@@ -7,4 +7,5 @@
 <h3 align="left">Connect with me:</h3>
 
 **E-mail: cosminmelinte2720@gmail.com**
+
 [LinkedIn](https://www.linkedin.com/in/cosminmelinte/)
