@@ -7,8 +7,8 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<h3 align="left">Languages and Tools:</h3>
+### Languages & Tools
+
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -26,16 +26,17 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-- [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python)
-- [Asterisk VoIP Lab](https://github.com/c0smin27/Asterisk-VoIP)
-- [IPv4/IPv6 Server-Client App](https://github.com/c0smin27/IPv6-Fetcher-C)
-- [VHDL Stopwatch Simulation](https://github.com/c0smin27/VHDL-Stopwatch)
+- [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python) – image processing in Python  
+- [Asterisk VoIP Lab](https://github.com/c0smin27/Asterisk-VoIP) – SIP/IAX server configuration project  
+- [IPv4/IPv6 Server-Client App](https://github.com/c0smin27/IPv6-Fetcher-C) – socket programming in C  
+- [VHDL Stopwatch Simulation](https://github.com/c0smin27/VHDL-Stopwatch) – digital logic simulation with VHDL  
+- [Analog Circuit Design – LTspice & Proteus](https://github.com/c0smin27/LTspice-Proteus-3Way-Adjustable-Summing-Circuit)
 
 ---
 
-### 📫 Connect with me
+### Connect with Me
 
-- 📧 Email: **cosminmelinte2720@gmail.com**  
-- 💼 LinkedIn: [cosminmelinte](https://www.linkedin.com/in/cosminmelinte/)
+- [LinkedIn](https://www.linkedin.com/in/cosminmelinte/)
+- Email: **cosminmelinte2720@gmail.com**
