@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Melinte Cosmin 👋</h1>
+<h1 align="center">Hi, I'm Melinte Cosmin </h1>
 <h3 align="center">Student at the Technical University of Cluj-Napoca</h3>
 
 <p align="center">
