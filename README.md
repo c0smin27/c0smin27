@@ -30,7 +30,7 @@
 
 - [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python) – image processing in Python  
 - [Asterisk VoIP Lab](https://github.com/c0smin27/Asterisk-VoIP) – SIP/IAX server configuration project  
-- [IPv4/IPv6 Server-Client App](https://github.com/c0smin27/IPv6-Fetcher-C) – socket programming in C  
+- [IPv4/IPv6 Server-Client App](https://github.com/c0smin27/IPv4-IPv6-Client-Server-in-C) – socket programming in C  
 - [VHDL Stopwatch Simulation](https://github.com/c0smin27/VHDL-Stopwatch) – digital logic simulation with VHDL  
 - [Analog Circuit Design – LTspice & Proteus](https://github.com/c0smin27/LTspice-Proteus-3Way-Adjustable-Summing-Circuit)
 
