@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cosmin Melinte</h1>
-<h3 align="left">Master’s student in Multimedia Technologies at the Technical University of Cluj-Napoca</h3>
+<h3 align="left">Master's student in Multimedia Technologies at the Technical University of Cluj-Napoca</h3>
 
 <p align="left">
 Electronics and telecommunications engineer focused on <strong>artificial intelligence</strong>, <strong>speech and image processing</strong>, and <strong>software development</strong> with practical integration into real-world systems.
