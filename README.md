@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Cosmin Melinte</h1>
+<h1 align="center">Hi, I'm Cosmin Melinte</h1>
 <h3 align="left">Master’s student in Multimedia Technologies at the Technical University of Cluj-Napoca</h3>
 
 <p align="left">
