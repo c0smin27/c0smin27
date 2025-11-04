@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Melinte Cosmin </h1>
-<h3 align="center">Student at the Technical University of Cluj-Napoca</h3>
+<h1 align="center">Hi, I'm Cosmin Melinte</h1>
+<h3 align="center">Master’s student in Multimedia Technologies at the Technical University of Cluj-Napoca</h3>
 
 <p align="center">
-  Passionate about <strong>embedded systems</strong>, <strong>networking</strong>, and real-world software projects that bring hardware and code together.
+Electronics and telecommunications engineer focused on <strong>artificial intelligence</strong>, <strong>speech and image processing</strong>, and <strong>software development</strong> with practical integration into real-world systems.
 </p>
 
 ---
@@ -10,29 +10,30 @@
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
 
 ---
 
 ### Featured Projects
 
-- [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python) – image processing in Python  
-- [Asterisk VoIP Lab](https://github.com/c0smin27/Asterisk-VoIP) – SIP/IAX server configuration project  
-- [IPv4/IPv6 Server-Client App](https://github.com/c0smin27/IPv4-IPv6-Client-Server-in-C) – socket programming in C  
-- [VHDL Stopwatch Simulation](https://github.com/c0smin27/VHDL-Stopwatch) – digital logic simulation with VHDL  
-- [Analog Circuit Design – LTspice & Proteus](https://github.com/c0smin27/LTspice-Proteus-3Way-Adjustable-Summing-Circuit)
+- [Speaker Anonymization via GAN-driven Artificial Embeddings and Prosody Transfer](https://github.com/c0smin27/Speaker-Anonymization-GAN-Prosody-Transfer) – research project presented at IEEE ICCP 2025, using GANs and prosody transfer for voice anonymization
+- [IoT Environment Monitoring System](https://github.com/c0smin27/IoT-Environment-Monitoring-System) – secure ESP32–MQTT–Django system for environmental data collection and visualization
+- [Speech Emotion Recognition](https://github.com/c0smin27/Speech-Emotion-Recognition-Python) – transformer-based emotion classification with Wav2Vec2 on TESS dataset
+- [Mobilenetv2 – Efficient Classification](https://github.com/c0smin27/Mobilenetv2-Efficient-Classification-Python) – lightweight CNN for Fashion-MNIST, optimized for mobile and embedded devices
+- [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python) – classical region-based segmentation algorithm implemented in Python
+- [Asterisk VoIP Communication System](https://github.com/c0smin27/Asterisk-VoIP) – local SIP/IAX telephony configuration using Asterisk PBX on Linux
 
 ---
 
