@@ -28,12 +28,12 @@ Electronics and telecommunications engineer focused on <strong>artificial intell
 
 ### Featured Projects
 
-- [Speaker Anonymization via GAN-driven Artificial Embeddings and Prosody Transfer](https://github.com/c0smin27/Speaker-Anonymization-GAN-Prosody-Transfer) – research project presented at IEEE ICCP 2025, using GANs and prosody transfer for voice anonymization
-- [IoT Environment Monitoring System](https://github.com/c0smin27/IoT-Environment-Monitoring-System) – secure ESP32–MQTT–Django system for environmental data collection and visualization
-- [Speech Emotion Recognition](https://github.com/c0smin27/Speech-Emotion-Recognition-Python) – transformer-based emotion classification with Wav2Vec2 on TESS dataset
-- [Mobilenetv2 – Efficient Classification](https://github.com/c0smin27/Mobilenetv2-Efficient-Classification-Python) – lightweight CNN for Fashion-MNIST, optimized for mobile and embedded devices
-- [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python) – classical region-based segmentation algorithm implemented in Python
-- [Asterisk VoIP Communication System](https://github.com/c0smin27/Asterisk-VoIP) – local SIP/IAX telephony configuration using Asterisk PBX on Linux
+- [Speaker Anonymization via GAN-driven Artificial Embeddings and Prosody Transfer](https://github.com/c0smin27/Speaker-Anonymization-GAN-Prosody-Transfer) - research project presented at IEEE ICCP 2025, using GANs and prosody transfer for voice anonymization
+- [IoT Environment Monitoring System](https://github.com/c0smin27/IoT-Environment-Monitoring-System) - secure ESP32-MQTT-Django system for environmental data collection and visualization
+- [Speech Emotion Recognition](https://github.com/c0smin27/Speech-Emotion-Recognition-Python) - transformer-based emotion classification with Wav2Vec2 on TESS dataset
+- [Mobilenetv2 - Efficient Classification](https://github.com/c0smin27/Mobilenetv2-Efficient-Classification-Python) - lightweight CNN for Fashion-MNIST, optimized for mobile and embedded devices
+- [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python) - classical region-based segmentation algorithm implemented in Python
+- [Asterisk VoIP Communication System](https://github.com/c0smin27/Asterisk-VoIP) - local SIP/IAX telephony configuration using Asterisk PBX on Linux
 
 ---
 
