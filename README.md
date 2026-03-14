@@ -54,7 +54,7 @@ Electronics and telecommunications engineer focused on <strong>artificial intell
 - [IoT Environment Monitoring System](https://github.com/c0smin27/IoT-Environment-Monitoring-System) - secure ESP32-MQTT-Django system for environmental data collection and visualization
 - [Speech Emotion Recognition](https://github.com/c0smin27/Speech-Emotion-Recognition-Python) - transformer-based emotion classification with Wav2Vec2 on TESS dataset
 - [Mobilenetv2 - Efficient Classification](https://github.com/c0smin27/Mobilenetv2-Efficient-Classification-Python) - lightweight CNN for Fashion-MNIST, optimized for mobile and embedded devices
-- [Split and Merge Image Segmentation](https://github.com/c0smin27/Split-n-Merge-Image-Segmentation-Python) - classical region-based segmentation algorithm implemented in Python
+- [Speech Classification from Scratch](https://github.com/c0smin27/Speech-Xvector-Classifier) - X-vector based speaker classification system implemented from scratch using SpeechBrain methodology
 - [Asterisk VoIP Communication System](https://github.com/c0smin27/Asterisk-VoIP) - local SIP/IAX telephony configuration using Asterisk PBX on Linux
 
 ---
